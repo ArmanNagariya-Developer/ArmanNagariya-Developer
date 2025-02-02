@@ -5,7 +5,26 @@
 </p>
 
 
-🔭 I’m currently working on<br><br>Web development projects using Laravel.<br><br>👯 I’m looking to collaborate on<br>Web development projects, especially those focused on user-centric features using Laravel.<br><br>🤝 I’m looking for help with<br>Contributions to web development projects, particularly in backend development and functionality improvements with Laravel.<br><br>🌱 I’m currently learning<br>Advanced backend development techniques with Laravel.<br><br>💬 Ask me about<br>Laravel development.<br>Building robust, user-friendly websites with PHP and Laravel.<br><br>⚡ Fun fact<br>Exploring the full potential of Laravel to build powerful and efficient web applications!
+## About Me
+
+🔭 **Currently Working On:**  
+- Web development projects using Laravel.
+
+👯 **Looking to Collaborate On:**  
+- Web development projects focused on user-centric features using Laravel.
+
+🤝 **Seeking Help With:**  
+- Contributions to backend development and functionality improvements for web projects using Laravel.
+
+🌱 **Currently Learning:**  
+- Advanced backend development techniques with Laravel.
+
+💬 **Ask Me About:**  
+- Laravel development  
+- Building robust, user-friendly websites with PHP and Laravel
+
+⚡ **Fun Fact:**  
+- Passionate about exploring Laravel’s full potential to build powerful and efficient web applications!
 
 
 ## 🌐 Socials:
